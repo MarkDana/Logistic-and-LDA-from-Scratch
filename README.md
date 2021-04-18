@@ -3,7 +3,7 @@ Codes for SJTU CS385 homework based on MNIST dataset.
 
 ## Usage
 
-### Attributes about loading dataset
+### Arguments about loading dataset
 + `-sub`: load a subset, still 10-category
 + `--traintest 10000 5000`: 10000, 5000 images respectively in trainset and testset
 + `-1vsr`: load one-vs-rest, binary classes
